@@ -1,5 +1,5 @@
 # Hello, World!
- Primeiro repositório do curso
+ Primeiro repositório
 
 Repositório criado durante a aula
 
